@@ -1,0 +1,13 @@
+.err-loading-page {
+    background-color: lightcoral;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 0.65;
+  }
+  
+  .err-loading-text {
+    padding: 30px;
+    text-align: center;
+  }

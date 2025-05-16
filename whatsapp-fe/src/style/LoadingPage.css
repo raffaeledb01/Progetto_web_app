@@ -1,0 +1,14 @@
+.loading-page {
+    background-color: rgb(181, 226, 215);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 0.65;
+  }
+  
+  .loading-text {
+    padding: 30px;
+    text-align: center;
+  }
+  

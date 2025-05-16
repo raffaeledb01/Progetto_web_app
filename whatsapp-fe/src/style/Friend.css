@@ -1,0 +1,27 @@
+.buttonRequest {
+  display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 10vw;
+  }
+  
+  .buttonRequest > .MuiSvgIcon-root {
+    margin-left: 2vw;
+    font-size: 24px !important;
+    color: grey
+  }
+  
+  .buttonRequest > .MuiSvgIcon-root:first-child {
+    margin-right: auto;
+  }
+
+  .buttonRequest > .MuiSvgIcon-root:first-child:hover {
+    margin-right: auto;
+    color: red
+  }
+
+  .buttonRequest > .MuiSvgIcon-root:last-child:hover {
+    color: green
+  }
+  
+  
