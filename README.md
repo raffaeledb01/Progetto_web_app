@@ -85,8 +85,8 @@ This university project is a real-time messaging web application inspired by Wha
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/whatsapp-clone.git
-cd whatsapp-clone
+git clone https://github.com/your-username/Progetto_web_app
+cd Progetto_web_app
  ```
 2. Backend Setup
 ```bash
